@@ -1,0 +1,76 @@
+version 2
+run AppOn-0-20240227-10:22:13-19352
+attr configname AppOn
+attr datetime 20240227-10:22:13
+attr experiment AppOn
+attr inifile exemple.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Simple
+attr processid 19352
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.node[0].appl.onDuty true
+param **.debug false
+param **.coreDebug false
+param *.playgroundSizeX 2500m
+param *.playgroundSizeY 2500m
+param *.playgroundSizeZ 50m
+param *.annotations.draw true
+param *.obstacles.obstacles "xmldoc(\"config.xml\", \"//AnalogueModel[@type='SimpleObstacleShadowing']/obstacles\")"
+param *.manager.updateInterval 1s
+param *.manager.host "\"localhost\""
+param *.manager.port 9999
+param *.manager.autoShutdown true
+param *.manager.launchConfig "xmldoc(\"osm.launchd.xml\")"
+param *.connectionManager.sendDirect true
+param *.connectionManager.maxInterfDist 2600m
+param *.connectionManager.drawMaxIntfDist false
+param *.**.nic.mac1609_4.useServiceChannel false
+param *.**.nic.mac1609_4.txPower 20mW
+param *.**.nic.mac1609_4.bitrate 6Mbps
+param *.**.nic.phy80211p.sensitivity -89dBm
+param *.**.nic.phy80211p.useThermalNoise true
+param *.**.nic.phy80211p.thermalNoise -110dBm
+param *.**.nic.phy80211p.decider "xmldoc(\"config.xml\")"
+param *.**.nic.phy80211p.analogueModels "xmldoc(\"config.xml\")"
+param *.**.nic.phy80211p.usePropagationDelay true
+param *.**.nic.phy80211p.antenna "xmldoc(\"antenna.xml\", \"/root/Antenna[@id='monopole']\")"
+param *.node[*].applType "\"PSEmergency\""
+param *.node[*].appl.headerLength "80 bit"
+param *.node[*].appl.sendBeacons false
+param *.node[*].appl.dataOnSch false
+param *.node[*].appl.beaconInterval 1s
+param *.node[*].veinsmobilityType.debug true
+param *.node[*].veinsmobility.x 0
+param *.node[*].veinsmobility.y 0
+param *.node[*].veinsmobility.z 1.895
+param *.rsu[*].applType "\"TraCIDemoRSU11p\""
+param *.rsu[0].mobility.x 420
+param *.rsu[0].mobility.y 540
+param *.rsu[0].mobility.z 50
+
+vector 0 Simple.node[0].veinsmobility posx ETV
+vector 1 Simple.node[0].veinsmobility posy ETV
+vector 2 Simple.node[0].veinsmobility speed ETV
+vector 3 Simple.node[1].veinsmobility posx ETV
+vector 4 Simple.node[1].veinsmobility posy ETV
+vector 5 Simple.node[0].veinsmobility acceleration ETV
+vector 6 Simple.node[0].veinsmobility co2emission ETV
+0	11	1	30.1
+0	33	2	30.1
+0	55	3	43.276542447004
+1	11	1	29.8
+1	33	2	29.8
+1	55	3	29.8
+2	33	2	13.176542447004
+2	55	3	13.119301998694
+3	55	3	30.1
+4	55	3	29.8
+5	55	3	-0.05724044831004
+6	55	3	1.7704905128114
+

@@ -1,0 +1,6 @@
+10:45:02 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+
+10:45:02 Build Finished. 0 errors, 0 warnings. (took 154ms)
+

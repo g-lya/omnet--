@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.omnetpp.scave.wizard.ScaveExportWizard">
+		<item key="CSV-R:quoteChar" value="doublequote"/>
+		<item key="CSV-R:columnNames" value="true"/>
+		<item key="CSV-R:omitBlankColumns" value="true"/>
+		<item key="CSV-R:quoteEscaping" value="doubling"/>
+		<item key="CSV-R:precision" value="14"/>
+		<item key="CSV-R:separator" value="comma"/>
+	</section>
+</section>

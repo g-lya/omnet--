@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="sumo.net.xml" />
+	<copy file="sumo.rou1.xml" />
+	<copy file="osm.view.xml" />
+    <copy file="sumo.add.xml"/>
+	<copy file="sumo1.sumo.cfg" type="config" />
+</launch>
+

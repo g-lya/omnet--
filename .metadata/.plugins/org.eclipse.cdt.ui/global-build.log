@@ -1,0 +1,1399 @@
+01:50:43 **** Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+01:50:44 **** Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+01:59:04 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+01:59:04 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:00:04 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:00:05 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:00:58 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:00:59 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:10:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:10:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:46:13: error: use of undeclared identifier 'changeLane'
+            changeLane();
+            ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:10:44 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:10:44 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:15:31 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:15:31 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:19:37 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:19:37 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:21:35 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:21:36 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:34: error: no member named 'c_str' in 'Coord'
+        wsm->setWsmData(curSpeed.c_str());
+                        ~~~~~~~~ ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:21:53 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:21:54 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:25: error: no viable conversion from 'Coord' to 'const char *'
+        wsm->setWsmData(curSpeed);
+                        ^~~~~~~~
+../veins-veins-4.7.1/src\veins/modules/messages/WaveShortMessage_m.h:103:42: note: passing argument to parameter 'wsmData' here
+    virtual void setWsmData(const char * wsmData);
+                                         ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:22:35 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:22:36 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:25: error: cannot initialize a parameter of type 'const char *' with an lvalue of type 'double'
+        wsm->setWsmData(curSpeed.x);
+                        ^~~~~~~~~~
+../veins-veins-4.7.1/src\veins/modules/messages/WaveShortMessage_m.h:103:42: note: passing argument to parameter 'wsmData' here
+    virtual void setWsmData(const char * wsmData);
+                                         ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:23:08 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:23:08 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:25: error: expected expression
+        wsm->setWsmData(const char * curSpeed.x);
+                        ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:25:23 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:25:24 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:37: error: member reference base type 'double' is not a structure or union
+        wsm->setWsmData((curSpeed.x).c_str);
+                        ~~~~~~~~~~~~^~~~~~
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:28:23 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:28:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:29: error: too many arguments to function call, expected 0, have 1
+        wsm->setWsmData(str(curSpeed.x));
+                        ~~~ ^~~~~~~~~~
+C:/omnetpp-5.6.2/include/omnetpp/csimplemodule.h:138:5: note: 'str' declared here
+    virtual std::string str() const override;
+    ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:28:51 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:28:51 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:110:9: error: use of undeclared identifier 'a'
+        a = str(curSpeed.x);
+        ^
+examples/evlc/EVLC.cc:110:17: error: too many arguments to function call, expected 0, have 1
+        a = str(curSpeed.x);
+            ~~~ ^~~~~~~~~~
+C:/omnetpp-5.6.2/include/omnetpp/csimplemodule.h:138:5: note: 'str' declared here
+    virtual std::string str() const override;
+    ^
+examples/evlc/EVLC.cc:111:25: error: use of undeclared identifier 'a'
+        wsm->setWsmData(a);
+                        ^
+3 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:30:11 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:30:12 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:111:25: error: no viable conversion from 'std::string' (aka 'basic_string<char>') to 'const char *'
+        wsm->setWsmData(speed);
+                        ^~~~~
+../veins-veins-4.7.1/src\veins/modules/messages/WaveShortMessage_m.h:103:42: note: passing argument to parameter 'wsmData' here
+    virtual void setWsmData(const char * wsmData);
+                                         ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:30:35 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:30:35 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:34:11 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:34:12 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:35:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:35:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:36:10 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:36:10 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:36:59 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:36:59 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:37:28 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:37:29 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:37:51 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:37:51 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:39:05 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:39:06 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:40:40 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:40:41 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:41:17 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:41:17 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:43:31 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:43:31 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:45:13 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:45:13 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:47:19 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:47:19 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:53:05 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:53:05 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:54:09 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:54:10 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:55:07 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:55:08 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:57:10 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:57:11 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+02:58:28 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:58:28 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+03:11:31 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:11:31 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:189:18: error: use of undeclared identifier 'IMobility'
+    std::vector< IMobility *> posVect;
+                 ^
+examples/evlc/EVLC.cc:189:29: error: expected expression
+    std::vector< IMobility *> posVect;
+                            ^
+examples/evlc/EVLC.cc:189:31: error: C++ requires a type specifier for all declarations
+    std::vector< IMobility *> posVect;
+                              ^
+examples/evlc/EVLC.cc:197:9: error: use of undeclared identifier 'IMobility'; did you mean 'mobility'?
+        IMobility *mod;
+        ^~~~~~~~~
+        mobility
+../veins-veins-4.7.1/src\veins/modules/application/ieee80211p/BaseWaveApplLayer.h:146:24: note: 'mobility' declared here
+        TraCIMobility* mobility;
+                       ^
+examples/evlc/EVLC.cc:197:20: error: use of undeclared identifier 'mod'
+        IMobility *mod;
+                   ^
+examples/evlc/EVLC.cc:201:9: error: use of undeclared identifier 'mod'
+        mod = check_and_cast<IMobility *>(host->getSubmodule("mobility"));
+        ^
+examples/evlc/EVLC.cc:201:30: error: use of undeclared identifier 'IMobility'
+        mod = check_and_cast<IMobility *>(host->getSubmodule("mobility"));
+                             ^
+examples/evlc/EVLC.cc:201:41: error: expected expression
+        mod = check_and_cast<IMobility *>(host->getSubmodule("mobility"));
+                                        ^
+examples/evlc/EVLC.cc:203:27: error: use of undeclared identifier 'mod'
+        posVect.push_back(mod);
+                          ^
+examples/evlc/EVLC.cc:207:28: error: expected unqualified-id
+    Coord pos = posVec[i]->->getCurrentPosition();
+                           ^
+examples/evlc/EVLC.cc:207:17: error: use of undeclared identifier 'posVec'
+    Coord pos = posVec[i]->->getCurrentPosition();
+                ^
+examples/evlc/EVLC.cc:207:24: error: use of undeclared identifier 'i'
+    Coord pos = posVec[i]->->getCurrentPosition();
+                       ^
+examples/evlc/EVLC.cc:209:24: error: use of undeclared identifier 'position1'
+    traci->getDistance(position1, position2, returnDrivingDistance);
+                       ^
+examples/evlc/EVLC.cc:209:35: error: use of undeclared identifier 'position2'
+    traci->getDistance(position1, position2, returnDrivingDistance);
+                                  ^
+examples/evlc/EVLC.cc:209:46: error: use of undeclared identifier 'returnDrivingDistance'
+    traci->getDistance(position1, position2, returnDrivingDistance);
+                                             ^
+examples/evlc/EVLC.cc:210:17: warning: expression result unused [-Wunused-value]
+    curPosition.x;
+    ~~~~~~~~~~~ ^
+1 warning and 15 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:12:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:12:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:5:10: fatal error: 'ModuleAccess.h' file not found
+#include <ModuleAccess.h>
+         ^~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:12:43 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:12:43 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+In file included from examples/evlc/EVLC.cc:1:
+examples/evlc/EVLC.h:8:10: fatal error: 'ModuleAccess.h' file not found
+#include <ModuleAccess.h>
+         ^~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:15:55 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:15:55 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:184:16: error: type 'Coord' does not provide a subscript operator
+    curPosition[0];
+    ~~~~~~~~~~~^~
+examples/evlc/EVLC.cc:185:48: error: type 'Coord' does not provide a subscript operator
+    traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                    ~~~~~~~~~~~^~
+examples/evlc/EVLC.cc:185:53: error: use of undeclared identifier 'returnDrivingDistance'
+    traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                                    ^
+3 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:19:33 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:19:34 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:184:5: error: use of undeclared identifier 'distance'
+    distance = traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+    ^
+examples/evlc/EVLC.cc:184:59: error: type 'Coord' does not provide a subscript operator
+    distance = traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                               ~~~~~~~~~~~^~
+examples/evlc/EVLC.cc:184:64: error: use of undeclared identifier 'returnDrivingDistance'
+    distance = traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                                               ^
+examples/evlc/EVLC.cc:185:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:185:9: error: use of undeclared identifier 'distance'
+    t = distance/curSpeed.x;
+        ^
+examples/evlc/EVLC.cc:186:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+6 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:20:23 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:20:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:184:66: error: type 'Coord' does not provide a subscript operator
+    double distance = traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                                      ~~~~~~~~~~~^~
+examples/evlc/EVLC.cc:184:71: error: use of undeclared identifier 'returnDrivingDistance'
+    double distance = traci->getDistance(curPosition, curPosition[0], returnDrivingDistance);
+                                                                      ^
+examples/evlc/EVLC.cc:185:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:186:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+4 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:20:40 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:20:41 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:184:68: error: use of undeclared identifier 'returnDrivingDistance'
+    double distance = traci->getDistance(curPosition, curPosition, returnDrivingDistance);
+                                                                   ^
+examples/evlc/EVLC.cc:185:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:186:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+3 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:20:51 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:20:51 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:185:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:186:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:26:06 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:26:07 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:184:5: error: use of undeclared identifier 'Position0'
+    Position0 = curPosition;
+    ^
+examples/evlc/EVLC.cc:185:5: error: use of undeclared identifier 'Position1'
+    Position1 = mobility->getPositionAt(simTime());
+    ^
+examples/evlc/EVLC.cc:186:42: error: use of undeclared identifier 'Position0'
+    double distance = traci->getDistance(Position0, Position1, 1);
+                                         ^
+examples/evlc/EVLC.cc:186:53: error: use of undeclared identifier 'Position1'
+    double distance = traci->getDistance(Position0, Position1, 1);
+                                                    ^
+examples/evlc/EVLC.cc:187:5: error: use of undeclared identifier 'Position1'
+    Position1 = mobility->getPositionAt(simTime());
+    ^
+examples/evlc/EVLC.cc:189:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:190:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+7 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:26:39 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:26:40 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:189:5: error: use of undeclared identifier 't'
+    t = distance/curSpeed.x;
+    ^
+examples/evlc/EVLC.cc:190:31: error: use of undeclared identifier 't'
+    traciVehicle->slowDown(0, t);
+                              ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:27:13 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:27:13 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:31:30 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:31:30 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:37:23 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:37:24 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+03:38:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:38:22 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+04:04:32 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+04:04:32 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+04:09:16 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+04:09:17 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+17:11:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+17:11:25 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+17:18:37 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+17:18:38 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+17:19:21 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+17:19:21 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+17:20:29 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+17:20:29 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+17:20:45 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+17:20:45 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+23:21:40 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+23:21:42 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+23:32:29 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+23:32:30 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+20:05:18 **** Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+20:05:20 **** Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+20:53:53 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+20:53:53 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+20:59:09 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+20:59:09 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:186:25: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp, "%d\n", Position0);
+                        ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+21:02:47 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:02:47 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:190:25: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp, "%d\n", Position0);
+                        ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+21:02:57 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:02:57 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+21:04:39 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:04:39 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+21:05:55 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:05:55 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+21:09:20 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:09:20 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+21:11:20 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+21:11:20 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+22:01:48 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:01:49 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+22:04:31 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:04:31 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:191:23: error: use of undeclared identifier 'desiredspeed'
+    fprintf(fp, "%d", desiredspeed);
+                      ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+22:04:49 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:04:49 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+22:46:55 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:46:55 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:189:23: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp, "%d", Position0);
+                      ^
+examples/evlc/EVLC.cc:193:24: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp1, "%d", Position1);
+                       ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+22:48:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:48:22 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:185:12: error: no viable conversion from 'Coord' to 'double'
+    double Position0 = curPosition;
+           ^           ~~~~~~~~~~~
+examples/evlc/EVLC.cc:193:24: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp1, "%d", Position1);
+                       ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+22:48:32 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:48:32 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:193:24: error: cannot pass object of non-trivial type 'Coord' through variadic function; call will abort at runtime [-Wnon-pod-varargs]
+    fprintf(fp1, "%d", Position1);
+                       ^
+examples/evlc/EVLC.cc:196:46: error: reference to type 'const Coord' could not bind to an lvalue of type 'double'
+    double distance = abs(traci->getDistance(Position0, Position1, 1));
+                                             ^~~~~~~~~
+../veins-veins-4.7.1/src\veins/modules/mobility/traci/TraCICommandInterface.h:51:35: note: passing argument to parameter 'position1' here
+                double getDistance(const Coord& position1, const Coord& position2, bool returnDrivingDistance);
+                                                ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+22:48:56 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:48:57 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:196:46: error: reference to type 'const Coord' could not bind to an lvalue of type 'double'
+    double distance = abs(traci->getDistance(Position0, Position1, 1));
+                                             ^~~~~~~~~
+../veins-veins-4.7.1/src\veins/modules/mobility/traci/TraCICommandInterface.h:51:35: note: passing argument to parameter 'position1' here
+                double getDistance(const Coord& position1, const Coord& position2, bool returnDrivingDistance);
+                                                ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+22:50:15 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+22:50:16 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:37:41 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:37:42 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'fread'
+    fread(fp3, "%d", t);
+    ^~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:484:18: note: candidate function not viable: requires 4 arguments, but 3 were provided
+  size_t __cdecl fread(void * __restrict__ _DstBuf,size_t _ElementSize,size_t _Count,FILE * __restrict__ _File);
+                 ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:38:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:38:22 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'fread'
+    fread(fp3, "%d", t);
+    ^~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:484:18: note: candidate function not viable: requires 4 arguments, but 3 were provided
+  size_t __cdecl fread(void * __restrict__ _DstBuf,size_t _ElementSize,size_t _Count,FILE * __restrict__ _File);
+                 ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:39:12 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:39:12 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: use of undeclared identifier 'getline'; did you mean 'std::getline'?
+    getline(fp3, t);
+    ^~~~~~~
+    std::getline
+C:\omnetpp-5.6.2\tools\win64\mingw64\include\c++\7.1.0\streambuf:173:9: note: 'std::getline' declared here
+        getline(basic_istream<_CharT2, _Traits2>&,
+        ^
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'getline'
+    getline(fp3, t);
+    ^~~~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\include\c++\7.1.0\streambuf:173:9: note: candidate function template not viable: requires 3 arguments, but 2 were provided
+        getline(basic_istream<_CharT2, _Traits2>&,
+        ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:39:38 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:39:39 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: use of undeclared identifier 'getline'; did you mean 'std::getline'?
+    getline(fp3, t);
+    ^~~~~~~
+    std::getline
+C:\omnetpp-5.6.2\tools\win64\mingw64\include\c++\7.1.0\streambuf:173:9: note: 'std::getline' declared here
+        getline(basic_istream<_CharT2, _Traits2>&,
+        ^
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'getline'
+    getline(fp3, t);
+    ^~~~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\include\c++\7.1.0\streambuf:173:9: note: candidate function template not viable: requires 3 arguments, but 2 were provided
+        getline(basic_istream<_CharT2, _Traits2>&,
+        ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:41:03 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:41:04 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'fread'
+    fread(fp3, t);
+    ^~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:484:18: note: candidate function not viable: requires 4 arguments, but 2 were provided
+  size_t __cdecl fread(void * __restrict__ _DstBuf,size_t _ElementSize,size_t _Count,FILE * __restrict__ _File);
+                 ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:42:08 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:42:08 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:205:5: error: no matching function for call to 'fseek'
+    fseek(fp3, t);
+    ^~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:488:15: note: candidate function not viable: requires 3 arguments, but 2 were provided
+  int __cdecl fseek(FILE *_File,long _Offset,int _Origin);
+              ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:43:05 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:43:06 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:207:5: error: no matching function for call to 'fread'
+    fread(fp3, t);
+    ^~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:484:18: note: candidate function not viable: requires 4 arguments, but 2 were provided
+  size_t __cdecl fread(void * __restrict__ _DstBuf,size_t _ElementSize,size_t _Count,FILE * __restrict__ _File);
+                 ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:44:53 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:44:53 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+02:46:37 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:46:38 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:212:13: error: void function 'StopFollowVeh' should not return a value [-Wreturn-type]
+            return 1; // EXIT_FAILURE
+            ^      ~
+examples/evlc/EVLC.cc:216:36: error: use of undeclared identifier 'numread'
+        printf("read %lu bytes\n", numread);
+                                   ^
+examples/evlc/EVLC.cc:219:9: error: void function 'StopFollowVeh' should not return a value [-Wreturn-type]
+        return 0;
+        ^      ~
+3 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+02:47:02 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+02:47:03 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:11:39 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:11:40 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:14:24 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:14:25 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:214:9: error: no matching function for call to 'fclose'
+        fclose(t);
+        ^~~~~~
+C:\omnetpp-5.6.2\tools\win64\mingw64\x86_64-w64-mingw32\include\stdio.h:458:15: note: candidate function not viable: no known conversion from 'size_t' (aka 'unsigned long long') to 'FILE *' (aka '_iobuf *') for 1st argument
+  int __cdecl fclose(FILE *_File);
+              ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+03:14:57 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:14:58 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:15:56 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:15:56 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:17:07 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:17:08 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:17:59 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:17:59 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:19:35 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:19:36 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:216:31: warning: implicit conversion from 'double' to 'int' changes value from 1.311502332505486 to 1 [-Wliteral-conversion]
+    traciVehicle->slowDown(0, 1.3115023325054864);
+                  ~~~~~~~~    ^~~~~~~~~~~~~~~~~~
+1 warning generated.
+Creating executable: out/clang-release//safety.exe
+03:23:12 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:23:13 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:36:22 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:36:23 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+03:50:12 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+03:50:13 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+16:32:28 **** Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+16:32:30 **** Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+16:34:27 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+16:34:28 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+22:28:52 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:19:52 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:19:54 **** Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:203:26: error: use of undeclared identifier 'Position2'
+    fprintf(fp2, "%d/n", Position2);
+                         ^
+examples/evlc/EVLC.cc:214:5: error: use of undeclared identifier 'trriger'
+    trriger = fopen("trriger.txt", "r");
+    ^
+examples/evlc/EVLC.cc:215:8: error: use of undeclared identifier 'a'
+       a = fread(buffer, sizeof(char), 1024, fp3);
+       ^
+examples/evlc/EVLC.cc:217:8: error: use of undeclared identifier 'a'
+    if(a==1)
+       ^
+examples/evlc/EVLC.cc:219:13: error: use of undeclared identifier 'a'
+    else if(a==0)
+            ^
+5 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+10:21:14 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:21:15 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:207:10: error: redefinition of 'buffer'
+    char buffer[1024];
+         ^
+examples/evlc/EVLC.cc:203:10: note: previous definition is here
+    char buffer[1024];
+         ^
+1 error generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+10:21:32 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:21:32 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:22:57 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:22:57 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+10:24:52 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:24:52 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+10:26:29 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:26:30 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+10:27:54 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:27:55 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:32:33 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:32:33 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:33:39 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:33:39 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+10:35:40 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:35:40 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:217:5: error: use of undeclared identifier 'c'
+    c = 1
+    ^
+examples/evlc/EVLC.cc:221:5: error: expected expression
+    else
+    ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+10:35:51 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:35:51 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+examples/evlc/EVLC.cc:217:14: error: expected ';' at end of declaration
+    int c = 1
+             ^
+             ;
+examples/evlc/EVLC.cc:221:5: error: expected expression
+    else
+    ^
+2 errors generated.
+make: *** [Makefile:110: out/clang-release//examples/evlc/EVLC.o] Error 1
+"make MODE=release all" terminated with exit code 2. Build might be incomplete.
+10:36:01 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:36:01 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:37:03 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:37:03 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:38:59 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:39:00 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:40:28 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:40:28 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+examples/evlc/EVLC.cc
+Creating executable: out/clang-release//safety.exe
+10:43:49 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:43:50 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+10:45:02 **** Incremental Build of configuration gcc-release for project veins-veins-4.7.1 ****
+make MODE=release all 
+make[1]: Entering directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/c/omnetpp-5.6.2/V2Xdec/veins-veins-4.7.1/src'
+10:45:02 **** Incremental Build of configuration release for project safety ****
+make MODE=release all 
+make: Nothing to be done for 'all'.

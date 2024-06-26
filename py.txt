@@ -1,0 +1,1 @@
+http://pydev.sourceforge.net/pydev_update_site/5.2.0

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 11/21/23 00:37:57 by Eclipse SUMO netedit Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <output>
+        <output-file value="C:\work\previousproject\predictive_and_self_trigger_comparision\1\sumo.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+    <netedit>
+        <route-files value="C:\work\previousproject\predictive_and_self_trigger_comparision\1\sumo.rou.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+    <route edges="gneE0 gneE1" color="yellow" id="route_0"/>
+
+    <vehicle id="vehicle_0" depart="0.00" departSpeed="13.8" route="route_0">
+       <stop lane="gneE1_0" endPos="5" until="99999"/>
+
+    </vehicle>
+
+<vType id="default" accel="2.3" decel="2.5" sigma="0.5" length="5" maxSpeed="100" carFollowModel="IDM" minGap="2"  laneChangeModel="SL2015"/>
+
+    <vehicle id="vehicle_1" type="default" depart="0.00" departSpeed="13.8" color="cyan" route="route_0"/>
+    <vehicle id="vehicle_2" type="default" depart="0.00" departSpeed="13.8" color="blue" route="route_0"/>
+
+</routes>
